@@ -1,0 +1,272 @@
+@media (min-width: 280px) and (max-width: 576px) {
+	.row {
+	    display: flex;
+	    flex-wrap: wrap;
+    }
+	.d-s-block {
+		display: block !important;
+	}
+	.d-s-none {
+		display: none !important;
+	}
+	.col-1 {
+		width: 8.33%;
+		padding: 0 15px;
+	}
+	.col-2 {
+		width: 16.66%;
+		padding: 0 15px;
+	}
+	.col-3 {
+		width: 25%;
+		padding: 0 15px;
+	}
+	.col-4 {
+		width: 33.33%;
+		padding: 0 15px;
+	}
+	.col-5 {
+		width: 41.66%;
+		padding: 0 15px;
+	}
+	.col-6 {
+		width: 50%;
+		padding: 0 15px;
+	}
+	.col-7 {
+		width: 58.33%;
+		padding: 0 15px;
+	}
+	.col-8 {
+		width: 66.66%;
+		padding: 0 15px;
+	}
+	.col-9 {
+		width: 75%;
+		padding: 0 15px;
+	}
+	.col-10 {
+		width: 83.33%;
+		padding: 0 15px;
+	}
+	.col-11 {
+		width: 91.66%;
+		padding: 0 15px;
+	}
+	.col-12 {
+		width: 100%;
+		padding: 0 15px;
+	}
+/*------ cmn-sty-sd ------*/
+    .skill-collection {
+	    justify-content: center;
+		padding: 0;
+	}
+	.team-id a i {
+		font-size: 22px;
+		margin: 0 2px;
+	}
+	.flex-direction {
+		flex-direction: column-reverse !important;
+	}
+	.text-align-center {
+		text-align: center !important;
+	}
+	.skill-collection {
+		font-size: 15px;
+		min-height: 50px;
+	}
+	.skill-collection i {
+		font-size: 25px;
+	}
+	.qut-border-down:hover {
+		padding-bottom: 65px;
+	}
+	.hid-para {
+		top: 35px;
+	}
+	.frm {
+		padding: 0;
+	}
+	#frm-nm {
+		padding: 7px 0 7px 18px;
+	}
+	#frm-ml {
+		padding: 7px 0 7px 18px;
+	}
+	#sub {
+		padding: 7px 0 7px 18px;
+	}
+}
+/*-------- m-device ---------*/
+@media (min-width: 567px) and (max-width: 992px) {
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.d-md-none {
+		display: none !important;
+	}
+	.d-md-block {
+		display: block !important;
+	}
+	.col-md-1 {
+		width: 8.33%;
+		padding: 0 15px;
+	}
+	.col-md-2 {
+		width: 16.66%;
+		padding: 0 15px;
+	}
+	.col-md-3 {
+		width: 25%;
+		padding: 0 15px;
+	}
+	.col-md-4 {
+		width: 33.33%;
+		padding: 0 15px;
+	}
+	.col-md-5 {
+		width: 41.66%;
+		padding: 0 15px;
+	}
+	.col-md-6 {
+		width: 50%;
+		padding: 0 15px;
+	}
+	.col-md-7 {
+		width: 58.33%;
+		padding: 0 15px;
+	}
+	.col-md-8 {
+		width: 66.66%;
+		padding: 0 15px;
+	}
+	.col-md-9 {
+		width: 75%;
+		padding: 0 15px;
+	}
+	.col-md-10 {
+		width: 83.33%;
+		padding: 0 15px;
+	}
+	.col-md-11 {
+		width: 91.66%;
+		padding: 0 15px;
+	}
+	.col-md-12 {
+		width: 100%;
+		padding: 0 15px;
+	}
+ /*------- cmn-sty-md -------*/
+	.skill-collection {
+	    justify-content: center;
+		padding: 0;
+	}
+	.team-id a i {
+		font-size: 24px;
+		margin: 0 3px;
+	}
+	.text-align-last {
+		text-align: right !important;
+	}
+	.text-align-m-center {
+		text-align: center !important;
+	}
+	.flex-direction {
+		flex-direction: column-reverse !important;
+	}
+	.frm {
+		padding: 0;
+	}
+	#frm-nm {
+		padding: 7px 165px 7px 18px;
+        min-width: 100%;
+	}
+	#frm-ml {
+		padding: 7px 170px 7px 18px;
+        min-width: 100%;
+	}
+	#sub {
+		padding: 7px 0 7px 18px;
+	}
+}
+/*-------- large-device ---------*/
+@media (min-width: 992px) {
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.d-l-block {
+		display: block !important;
+	}
+	.d-l-none {
+		display: none !important;
+	}
+	.col-lg-1 {
+		width: 8.33%;
+		padding: 0 15px;
+	}
+	.col-lg-2 {
+		width: 16.66%;
+		padding: 0 15px;
+	}
+	.col-lg-3 {
+		width: 25%;
+		padding: 0 15px;
+	}
+	.col-lg-4 {
+		width: 33.33%;
+		padding: 0 15px;
+	}
+	.col-lg-5 {
+		width: 41.66%;
+		padding: 0 15px;
+	}
+	.col-lg-6 {
+		width: 50%;
+		padding: 0 15px;
+	}
+	.col-lg-7 {
+		width: 58.33%;
+		padding: 0 15px;
+	}
+	.col-lg-8 {
+		width: 66.66%;
+		padding: 0 15px;
+	}
+	.col-lg-9 {
+		width: 75%;
+		padding: 0 15px;
+	}
+	.col-lg-10 {
+		width: 83.33%;
+		padding: 0 15px;
+	}
+	.col-lg-11 {
+		width: 91.66%;
+		padding: 0 15px;
+	}
+	.col-lg-12 {
+		width: 100%;
+		padding: 0 15px;
+	}
+ /*------ cmn-sty-ld -------*/
+	.team-id {
+		bottom: 37%;
+	}
+	.team-id a i {
+		margin: 0 3px;
+	}
+}
+ /*------ v-lg-device -------*/
+@media (min-width: 1200px) {
+	 .container {
+		width: 1170px;
+	}
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -15px;
+	}
+}
